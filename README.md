@@ -23,7 +23,7 @@
 
 ## 💁 Social Accounts
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rakhimovkamran@gmail.com)](mailto:ahadovkarim@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rakhimovkamran/)](https://instagram.com/akhadovkarim/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakhimovkamran/)](https://www.linkedin.com/in/akhadovkarim/)
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-gray?style=for-the-badge&logo=Codepen&logoColor=white&link=https://codepen.io/rakhimovkamran)](https://codepen.io/akhadovkarim/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ahadovkarim@gmail.com)](mailto:ahadovkarim@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/akhadovkarim/)](https://instagram.com/akhadovkarim/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhadovkarim/)](https://www.linkedin.com/in/akhadovkarim/)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-gray?style=for-the-badge&logo=Codepen&logoColor=white&link=https://codepen.io/akhadovkarim)](https://codepen.io/akhadovkarim/)
