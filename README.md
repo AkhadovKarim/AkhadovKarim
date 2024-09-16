@@ -1,3 +1,1 @@
-# Привет бро! 
-<h2>Меня зовут Карим:)</h2>
-<h4>Python,JS,PHP</h4>
+Hello My Name Is Karim, A.K - JB
